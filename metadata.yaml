@@ -1,0 +1,34 @@
+_repo: The-poems-of-Winthrop-Mackworth-Praed-selected_71008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Praed, Winthrop Mackworth
+    birthdate: 1802
+    deathdate: 1839
+    gutenberg_agent_id: '51814'
+    url: http://www.gutenberg.org/2009/agents/51814
+    wikipedia: https://en.wikipedia.org/wiki/Winthrop_Mackworth_Praed
+  editor:
+    agent_name: Cooper, Frederick
+    gutenberg_agent_id: '56038'
+    url: http://www.gutenberg.org/2009/agents/56038
+description: ''
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71008'
+language: en
+pgterms:marc905: 20221227055537praed
+pgterms:marc906: '1886'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bWalter Scott, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: The poems of Winthrop Mackworth Praed. [selected]
+url: http://www.gutenberg.org/ebooks/71008
